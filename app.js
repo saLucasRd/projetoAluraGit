@@ -1,4 +1,4 @@
-let this = "does nothing";
+// comment B)
 let listaDeNumerosSorteados = [];
 let numeroLimite = 10;
 let numeroSecreto = gerarNumeroAleatorio();
